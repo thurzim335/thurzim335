@@ -2,4 +2,4 @@
 
 somos dois estudantes do primeiro ano do ensino medio
 
-#0000ffnossa professora é a Arianne Brão de pensamento computacional
+nossa professora é a Arianne Brão de pensamento computacional
